@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\bin\Debug\net6.0-windows\QuizSystem - WPF.exe
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\bin\Debug\net6.0-windows\QuizSystem - WPF.deps.json
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\bin\Debug\net6.0-windows\QuizSystem - WPF.runtimeconfig.json
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\bin\Debug\net6.0-windows\QuizSystem - WPF.dll
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\bin\Debug\net6.0-windows\QuizSystem - WPF.pdb
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF_MarkupCompile.cache
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF_MarkupCompile.lref
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.g.resources
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.AssemblyInfo.cs
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.dll
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\refint\QuizSystem - WPF.dll
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.pdb
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.genruntimeconfig.cache
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\ref\QuizSystem - WPF.dll
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\science.g.cs
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\loginWIndow.g.cs
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\science.baml
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\loginWIndow.baml
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\selectSubjects.g.cs
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\selectSubjects.baml
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\ict.g.cs
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\maths.g.cs
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\ict.baml
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\maths.baml
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\report.g.cs
+C:\Users\User\Desktop\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\report.baml
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\bin\Debug\net6.0-windows\QuizSystem - WPF.exe
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\bin\Debug\net6.0-windows\QuizSystem - WPF.deps.json
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\bin\Debug\net6.0-windows\QuizSystem - WPF.runtimeconfig.json
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\bin\Debug\net6.0-windows\QuizSystem - WPF.dll
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\bin\Debug\net6.0-windows\QuizSystem - WPF.pdb
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\ict.g.cs
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\maths.g.cs
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\science.g.cs
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\loginWIndow.g.cs
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\report.g.cs
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\selectSubjects.g.cs
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF_MarkupCompile.cache
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF_MarkupCompile.lref
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\ict.baml
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\maths.baml
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\subjects\science.baml
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\loginWIndow.baml
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\report.baml
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\windows\selectSubjects.baml
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.g.resources
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.AssemblyInfo.cs
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.dll
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\refint\QuizSystem - WPF.dll
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.pdb
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\QuizSystem - WPF.genruntimeconfig.cache
+C:\Users\User\Desktop\SDAM 2\Individual\QuizSystem - WPF\QuizSystem - WPF\obj\Debug\net6.0-windows\ref\QuizSystem - WPF.dll

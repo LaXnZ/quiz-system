@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="subjects\ict.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="subjects\maths.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="subjects\science.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\loginWIndow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\report.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\selectSubjects.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="subjects\ict.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="subjects\maths.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="subjects\science.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\loginWIndow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\report.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\selectSubjects.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
